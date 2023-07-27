@@ -1,0 +1,3 @@
+AppID: App87aa, PID: aa, Gender: 1, PhoneNum: 243453455, Sector: 1, HealthProb: coughing evryday, DoctorID: sar41
+AppID: App41Fred22, PID: Fred22, Gender: 1, PhoneNum: 123456789, Sector: 2, HealthProb: High thondai, DoctorID: Ant42
+AppID: App18467Fred22, PID: Fred22, Gender: 2, PhoneNum: 123456789, Sector: 1, HealthProb: High yu, DoctorID: kkk22
